@@ -97,7 +97,6 @@ Optional: Edit config.txt and autostart.sh for boot optimizations.
 Reboot and Play!
 Once your games are loaded and configured, reboot your Pi and enjoy your retro gaming setup.
 
-Let me know if you want badges (like MIT License, Raspberry Pi, etc.), or markdown screenshots or GIFs showing the UI in action.
 
 
 
@@ -114,4 +113,3 @@ Tools
 
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
