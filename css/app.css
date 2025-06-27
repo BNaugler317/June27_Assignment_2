@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>title</title>
+</head>
+<body> new ruleset
+  <h1>New Ruleset</h1>
+  <p>This is a new ruleset for the project.</p>
+  <script src="scripts/app.js"></script>
+  <link rel="stylesheet" href="css/app.css" />
+  <style>
+    body {
+      background-color: lightblue;
+    }
+    h1 {
+      color: navy;
+    }
+  </style>
+  
+</body>
+</html>
